@@ -28,7 +28,7 @@
     ]
   },
   "dependencies": {
-    "axios": "0.21.3"
+    "axios": "1.6.8"
   },
   "engines": {
     "node": ">=4"
